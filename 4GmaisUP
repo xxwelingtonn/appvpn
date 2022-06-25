@@ -1,6 +1,6 @@
 {
   "Version": "1.0.11",
-  "ReleaseNotes": "VIVO TIM CLARO",
+  "ReleaseNotes": "VIVO",
   "UrlUpdate": "https://raw.githubusercontent.com/xxwelingtonn/appvpn/main/4GmaisUP",
   "Sms": "sms aqui",
   "EmailFeedback": "seu email aqui",
@@ -8,10 +8,10 @@
   "UrlTermos": "seu termo aqui",
   "CheckUser": "true",
   "FormatCheck": "ddmmyyyy",
-  "UdpPort":"7100;7200;7300;7400;7500",
+  "UdpPort":"7300",
   "Servers": [
     {
-      "Name": "🌐SERVIDOR 1111",
+      "Name": "🌐SERVIDOR 1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.chockdigi.ml",
@@ -34,6 +34,16 @@
     }
   ],
   "Networks": [
+    {
+      "Name": "VIVO | PROXY | 01",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-Alive\nUser-Agent: [ua]\nReferer: [lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
     {
       "Name": "VIVO | PROXY | 01",
       "FLAG": "vivo",
