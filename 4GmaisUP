@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.12",
   "ReleaseNotes": "VIVO",
   "UrlUpdate": "https://raw.githubusercontent.com/xxwelingtonn/appvpn/main/4GmaisUP",
   "Sms": "sms aqui",
@@ -45,7 +45,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO | PROXY | 01",
+      "Name": "VIVO | PROXY | 02",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-Alive\nUser-Agent: [ua]\nReferer: [lf][lf]",
       "SNI": "",
