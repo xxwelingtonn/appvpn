@@ -23,9 +23,20 @@
       },
     {
       "Name": "🌐SERVIDOR 2",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "aws.wsshbr.xyz",
+      "CheckUser": "http://18.230.197.62:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "🌐SERVIDOR 3",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "br3.chockdigi.ml",
+      "ServerIP": "azure.wsshbr.xyz",
       "CheckUser": "http://18.230.197.62:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
