@@ -102,7 +102,7 @@
         "config_openvpn": "", 
         "proxy_hostname": "wsshbr.xyz", 
         "sort_order": 1, 
-        "id": 6, 
+        "id": 2, 
         "proxy_port": 443, 
         "category": {
           "name": "SSH", 
@@ -172,7 +172,7 @@
         "config_openvpn": "", 
         "proxy_hostname": "wsshbr.xyz", 
         "sort_order": 2, 
-        "id": 7, 
+        "id": 2, 
         "proxy_port": 443, 
         "category": {
           "name": "SSH", 
