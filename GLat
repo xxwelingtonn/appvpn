@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#813FA3\">CLOUD HAUNT</font>", 
+      "value": "<font color=\"#3355D1\">CLOUD HAUNT</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/D1w3JP3/2e80cc49f8133b4c3a3f9dc2b85d8b82.jpg", 
+      "value": "https://i.ibb.co/wJWmbVD/024e4c04e38a58a9d793e7c79b57f11c.jpg", 
       "name": "app_background_image"
     },
     {
@@ -33,13 +33,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#813FA3", 
+      "value": "#3355D1", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#813FA3", 
+      "value": "#3355D1", 
       "id": 42, 
       "name": "icon_color"
     }, 
