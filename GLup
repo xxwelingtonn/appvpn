@@ -157,7 +157,7 @@
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/cwgvLwn/20220627-181133.png", 
-        "user_id": 2, 
+        "user_id": 1, 
         "password": "", 
         "udp_port": "7300", 
         "category_id": 2, 
@@ -179,7 +179,7 @@
           "id": 210, 
           "status": "ACTIVE", 
           "sort_order": 1, 
-          "user_id": 2, 
+          "user_id": 1, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
         }
@@ -213,7 +213,7 @@
           "name": "SSH", 
           "id": 210, 
           "status": "ACTIVE", 
-          "sort_order": 1, 
+          "sort_order": 2, 
           "user_id": 2, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
