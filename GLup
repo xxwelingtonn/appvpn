@@ -10,7 +10,7 @@
     "pages": 1, 
     "results": [
       {
-        "name": "VIVO CLOUD", 
+        "name": "VIVO CLOUD1", 
         "config_v2ray": "", 
         "server_hostname": "wsshbr.xyz", 
         "description": "", 
@@ -45,7 +45,7 @@
         }
       }, 
       {
-        "name": "VIVO SPEED", 
+        "name": "VIVO SPEED2", 
         "config_v2ray": "", 
         "server_hostname": "", 
         "description": "", 
@@ -80,7 +80,7 @@
         }
       }, 
       {
-        "name": "OI CLOUD", 
+        "name": "OI CLOUD3", 
         "config_v2ray": "", 
         "server_hostname": "", 
         "description": "", 
@@ -115,7 +115,7 @@
         }
       },
       {
-        "name": "OI SPEED", 
+        "name": "OI SPEED4", 
         "config_v2ray": "", 
         "server_hostname": "", 
         "description": "", 
@@ -150,7 +150,7 @@
         }
       },
       {
-        "name": "TIM CLOUD", 
+        "name": "TIM CLOUD5", 
         "config_v2ray": "", 
         "server_hostname": "", 
         "description": "", 
@@ -185,7 +185,7 @@
         }
       },
       {
-        "name": "TIM SPEED", 
+        "name": "TIM SPEED6", 
         "config_v2ray": "", 
         "server_hostname": "", 
         "description": "", 
@@ -220,7 +220,7 @@
         }
       },
       {
-        "name": "CLARO SPEED", 
+        "name": "CLARO SPEED7", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
         "description": "", 
@@ -255,7 +255,7 @@
         }
       },
       {
-        "name": "CLARO SPEED", 
+        "name": "CLARO SPEED8", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
         "description": "", 
