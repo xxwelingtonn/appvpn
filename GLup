@@ -67,11 +67,11 @@
         "config_openvpn": "", 
         "proxy_hostname": "104.24.10.16", 
         "sort_order": 2, 
-        "id": 2, 
+        "id": 1, 
         "proxy_port": 443, 
         "category": {
           "name": "SSH", 
-          "id": 2, 
+          "id": 1, 
           "status": "ACTIVE", 
           "sort_order": 2, 
           "user_id": 1, 
