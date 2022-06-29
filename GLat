@@ -100,7 +100,7 @@
     },
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#000000", 
       "id": 3134, 
       "name": "app_dialog_config_background_color"
     }, 
@@ -112,13 +112,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#000000", 
       "id": 3136, 
       "name": "app_dialog_success_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#000000", 
       "id": 3137, 
       "name": "app_dialog_error_background_color"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO WSSH VPN!!", 
+      "value": "WELINGTONN VPN ATUALIZADO 29/06/2022", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
