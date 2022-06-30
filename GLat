@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#D2691E\">WSSH VPN</font>", 
+      "value": "<font color=\"#FFFAF0\">WSSH VPN</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -27,25 +27,25 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#ff0000", 
       "id": 40, 
       "name": "text_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#D2691E", 
+      "value": "#FFFAF0", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#D2691E", 
+      "value": "#FFFAF0", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#D2691E", 
+      "value": "#FFFAF0", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#D2691E", 
+      "value": "#FFFAF0", 
       "id": 2382, 
       "name": "border_color"
     }, 
@@ -136,7 +136,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#ff0000", 
       "id": 5140, 
       "name": "app_dialog_error_text_color"
     }, 
