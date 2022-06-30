@@ -33,7 +33,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#9932CC", 
       "id": 41, 
       "name": "button_color"
     }, 
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/fvS7fr6/20220627-205841.png", 
+      "value": "20220627-205841.png", 
       "id": 2386, 
       "name": "app_logo"
     },
