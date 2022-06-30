@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#B0E0E6\">WSSH VPN</font>", 
+      "value": "<font color=\"#D2691E\">WSSH VPN</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -33,19 +33,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#B0E0E6", 
+      "value": "#D2691E", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#B0E0E6", 
+      "value": "#D2691E", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#B0E0E6", 
+      "value": "#D2691E", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#B0E0E6", 
+      "value": "#D2691E", 
       "id": 2382, 
       "name": "border_color"
     }, 
