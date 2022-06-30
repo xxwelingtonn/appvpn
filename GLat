@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color="#FFFFFFFF">VPN</font>", 
+      "value": "<font color=\"#FFFFFF\">CLOUD HAUNT</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -63,7 +63,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me//welingtonn", 
+      "value": "https://t.me//satancloud", 
       "id": 2224, 
       "name": "app_contact_link"
     },
@@ -88,7 +88,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me/welingtonn", 
+      "value": "https://t.me/satanloud", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO WSSH VPN!!", 
+      "value": "SEJAM BEM VINDO(A)S AO DEV4TUNNEL!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
@@ -190,7 +190,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "", 
+      "value": "https://i.ibb.co/R9ycgpR/icon-6-launcher-round.png", 
       "id": 7732, 
       "name": "app_contct_icon"
     }
