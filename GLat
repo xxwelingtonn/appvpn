@@ -39,13 +39,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#645E67", 
+      "value": "#9932CC", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#333333", 
+      "value": "#9932CC", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#333333", 
+      "value": "#9932CC", 
       "id": 2382, 
       "name": "border_color"
     }, 
