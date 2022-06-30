@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#FFFAF0\">WSSH VPN</font>", 
+      "value": "<font color=\"#FFFAF0\">VPN</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -15,7 +15,7 @@
     },
     {
       "user_id": 27, 
-      "value": "#00000000", 
+      "value": "#00000000",
       "id": 2165, 
       "name": "background_color"
     }, 
