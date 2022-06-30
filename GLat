@@ -27,13 +27,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ff0000", 
+      "value": "#ffffff", 
       "id": 40, 
       "name": "text_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#FFFAF0", 
+      "value": "#FF0000", 
       "id": 41, 
       "name": "button_color"
     }, 
@@ -130,7 +130,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#2bb673", 
+      "value": "#ffffff", 
       "id": 5139, 
       "name": "app_dialog_success_text_color"
     }, 
