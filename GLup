@@ -1,4 +1,3 @@
-
 {
   "status": 200, 
   "data": {
@@ -11,7 +10,7 @@
     "pages": 1, 
     "results": [
       {
-        "name": "VIVO CLOUD1", 
+        "name": "VIVO SSL PROXY1", 
         "config_v2ray": "", 
         "server_hostname": "", 
         "description": "", 
@@ -46,10 +45,10 @@
         }
       }, 
       {
-        "name": "VIVO SPEED2", 
+        "name": "VIVO SSL PROXY2", 
         "config_v2ray": "", 
         "server_hostname": "", 
-        "description": "", 
+        "description": "MD PAY", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/r2t0Jyd/20220627-181145.png", 
