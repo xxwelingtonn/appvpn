@@ -33,7 +33,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#88bbff", 
+      "value": "#ffffff", 
       "id": 41, 
       "name": "button_color"
     }, 
@@ -63,7 +63,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me//satancloud", 
+      "value": "https://t.me//welingtonn", 
       "id": 2224, 
       "name": "app_contact_link"
     },
@@ -88,7 +88,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me/satanloud", 
+      "value": "https://t.me/welingtonn", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO DEV4TUNNEL!!", 
+      "value": "SEJAM BEM VINDO(A)S AO WSSH VPN!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
