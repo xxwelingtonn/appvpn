@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color="#FFF00FFF">VPN</font>", 
+      "value": "<font color="#FFFFFF">VPN</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -15,13 +15,13 @@
     },
     {
       "user_id": 27, 
-      "value": "#FFFFFFF", 
+      "value": "#00000000", 
       "id": 2165, 
       "name": "background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#FFFFFFF", 
+      "value": "#00000000", 
       "id": 39, 
       "name": "card_color"
     }, 
@@ -94,13 +94,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/g6kd695/SGN-06-29-2022-1656518554453.png", 
+      "value": "https://i.ibb.co/fvS7fr6/20220627-205841.png", 
       "id": 2386, 
       "name": "app_logo"
     },
     {
       "user_id": 27, 
-      "value": "#000000", 
+      "value": "#222222", 
       "id": 3134, 
       "name": "app_dialog_config_background_color"
     }, 
@@ -112,13 +112,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#000000", 
+      "value": "#222222", 
       "id": 3136, 
       "name": "app_dialog_success_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#000000", 
+      "value": "#222222", 
       "id": 3137, 
       "name": "app_dialog_error_background_color"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "WELINGTONN VPN ATUALIZADO 29/06/2022", 
+      "value": "SEJAM BEM VINDO(A)S AO WSSH VPN!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
@@ -190,7 +190,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/R9ycgpR/icon-6-launcher-round.png", 
+      "value": "https://i.ibb.co/dt1vdcF/telegram-icone-icon.png", 
       "id": 7732, 
       "name": "app_contct_icon"
     }
