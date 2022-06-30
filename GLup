@@ -80,7 +80,7 @@
         }
       }, 
       {
-        "name": "VIVO CLOUD", 
+        "name": "VIVO CLOUD5", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
         "description": " PROXY", 
@@ -93,12 +93,12 @@
         "category_id": 1, 
         "v2ray_uuid": "", 
         "primary_dns_server": "8.8.8.8", 
-        "payload": "FORCE /? FULL / HTTP/1.0[crlf]HOST: [app_host][crlf]UPGRADE: [crlf][crlf]", 
+        "payload": "FORCE /? FULL / HTTP/1.0[crlf]HOST: [app_host][crlf]UPGRADE: t.me/welingtonn[crlf][crlf]", 
         "status": "ACTIVE", 
         "secondary_dns_server": "8.8.4.4", 
         "sni": "", 
         "config_mode": "ssh_direct", 
-        "url_check_user": "https://www.sc-instagram.com/", 
+        "url_check_user": "", 
         "config_openvpn": "", 
         "proxy_hostname": "104.18.6.80", 
         "sort_order": 3, 
