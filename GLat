@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color="#FFFFFF">VPN</font>", 
+      "value": "<font color="#FFFFFFFF">VPN</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
