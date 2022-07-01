@@ -10,10 +10,10 @@
     "pages": 1, 
     "results": [
       {
-        "name": "VIVO CLOUD", 
+        "name": "VIVO CLOUD 1", 
         "config_v2ray": "", 
         "server_hostname": "104.18.6.80", 
-        "description": " PROXY", 
+        "description": "[SSH DIRECT]", 
         "username": "", 
         "server_port": 80, 
         "icon_image": "https://i.ibb.co/vcdK4kT/ic-vivo.png", 
@@ -45,10 +45,10 @@
         }
       }, 
       {
-        "name": "VIVO CLOUD", 
+        "name": "VIVO CLOUD 2", 
         "config_v2ray": "", 
         "server_hostname": "104.24.10.16", 
-        "description": " PROXY", 
+        "description": "[SSH DIRECT]", 
         "username": "", 
         "server_port": 80, 
         "icon_image": "https://i.ibb.co/vcdK4kT/ic-vivo.png", 
@@ -80,10 +80,10 @@
         }
       }, 
       {
-        "name": "VIVO CLOUD", 
+        "name": "VIVO CLOUD 3", 
         "config_v2ray": "", 
         "server_hostname": "104.18.6.80", 
-        "description": " PROXY", 
+        "description": "[SSH DIRECT]", 
         "username": "", 
         "server_port": 80, 
         "icon_image": "https://i.ibb.co/vcdK4kT/ic-vivo.png", 
@@ -115,10 +115,10 @@
         }
       },
       {
-        "name": "VIVO SPEED", 
+        "name": "VIVO CLOUD 4", 
         "config_v2ray": "", 
         "server_hostname": "", 
-        "description": "SSL PROXY", 
+        "description": "[SSL PROXY]", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/vcdK4kT/ic-vivo.png", 
@@ -150,10 +150,10 @@
         }
       },
       {
-        "name": "TIM CLOUD", 
+        "name": "TIM CLOUD 1", 
         "config_v2ray": "", 
         "server_hostname": "", 
-        "description": "SSL PROXY", 
+        "description": "[SSL PROXY]", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/CKJH14J/ic-tim.png", 
@@ -181,14 +181,14 @@
           "sort_order": 5, 
           "user_id": 1, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
-          "description": "BR"
+          "description": ""
         }
       },
       {
-        "name": "TIM CLOUD", 
+        "name": "TIM CLOUD 2", 
         "config_v2ray": "", 
         "server_hostname": "", 
-        "description": "SSL PROXY 7", 
+        "description": "[SSL PROXY]", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/CKJH14J/ic-tim.png", 
@@ -220,10 +220,10 @@
         }
       },
       {
-        "name": "CLARO CLOUD", 
+        "name": "CLARO CLOUD 1", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
-        "description": "SSL PROXY", 
+        "description": "[SSL PROXY]", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/ZGqzrJH/claro.png", 
@@ -255,10 +255,10 @@
         }
       },
       {
-        "name": "CLARO CLOUD", 
+        "name": "CLARO CLOUD 2", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
-        "description": "SSL PROXY", 
+        "description": "[SSL PROXY]", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/ZGqzrJH/claro.png", 
@@ -290,10 +290,10 @@
         }
       },
       {
-        "name": "CLARO CLOUD", 
+        "name": "CLARO CLOUD 3", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
-        "description": "SSL PROXY 8", 
+        "description": "[SSL PROXY]", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/ZGqzrJH/claro.png", 
@@ -319,6 +319,41 @@
           "id": 211, 
           "status": "ACTIVE", 
           "sort_order": 9, 
+          "user_id": 1, 
+          "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
+          "description": ""
+        }
+      },
+      {
+        "name": "CLARO CLOUD 4", 
+        "config_v2ray": "", 
+        "server_hostname": "azure.wsshbr.xyz", 
+        "description": "[SSL PROXY]", 
+        "username": "", 
+        "server_port": 443, 
+        "icon_image": "https://i.ibb.co/ZGqzrJH/claro.png", 
+        "user_id": 1, 
+        "password": "", 
+        "udp_port": "7300", 
+        "category_id": 1, 
+        "v2ray_uuid": "", 
+        "primary_dns_server": "8.8.8.8", 
+        "payload": "GET wss://wsshbr.xyz HTTP/1.1[lf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
+        "status": "ACTIVE", 
+        "secondary_dns_server": "8.8.4.4", 
+        "sni": "wsshbr.xyz", 
+        "config_mode": "ssl_proxy", 
+        "url_check_user": "", 
+        "config_openvpn": "", 
+        "proxy_hostname": "104.18.7.80", 
+        "sort_order": 10, 
+        "id": 10, 
+        "proxy_port": 443, 
+        "category": {
+          "name": "SSH", 
+          "id": 211, 
+          "status": "ACTIVE", 
+          "sort_order": 10, 
           "user_id": 1, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
