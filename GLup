@@ -150,10 +150,10 @@
         }
       },
       {
-        "name": "TIM CLOUD5", 
+        "name": "TIM CLOUD", 
         "config_v2ray": "", 
         "server_hostname": "", 
-        "description": "", 
+        "description": "SSL PROXY", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/CKJH14J/ic-tim.png", 
@@ -181,14 +181,14 @@
           "sort_order": 5, 
           "user_id": 1, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
-          "description": ""
+          "description": "BR"
         }
       },
       {
-        "name": "TIM SPEED6", 
+        "name": "TIM CLOUD", 
         "config_v2ray": "", 
         "server_hostname": "", 
-        "description": "", 
+        "description": "SSL PROXY 7", 
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/CKJH14J/ic-tim.png", 
@@ -220,13 +220,13 @@
         }
       },
       {
-        "name": "CLARO SPEED7", 
+        "name": "CLARO CLOUD", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
-        "description": "", 
+        "description": "SSL PROXY", 
         "username": "", 
         "server_port": 443, 
-        "icon_image": "https://i.ibb.co/vcdK4kT/ic-vivo.png", 
+        "icon_image": "https://i.ibb.co/ZGqzrJH/claro.png", 
         "user_id": 1, 
         "password": "", 
         "udp_port": "7300", 
@@ -255,13 +255,13 @@
         }
       },
       {
-        "name": "CLARO SPEED8", 
+        "name": "CLARO CLOUD", 
         "config_v2ray": "", 
         "server_hostname": "azure.wsshbr.xyz", 
-        "description": "", 
+        "description": "SSL PROXY 8", 
         "username": "", 
         "server_port": 443, 
-        "icon_image": "https://i.ibb.co/vcdK4kT/ic-vivo.png", 
+        "icon_image": "https://i.ibb.co/ZGqzrJH/claro.png", 
         "user_id": 1, 
         "password": "", 
         "udp_port": "7300", 
