@@ -23,7 +23,7 @@
         "category_id": 1, 
         "v2ray_uuid": "", 
         "primary_dns_server": "8.8.8.8", 
-        "payload": "GET / HTTP/1.1[crlf]Host: aws.wsshbr.xyz[crlf]Upgrade: websockt[crlf][crlf]", 
+        "payload": "GET / HTTP/1.1[crlf]Host: orac.wsshbr.xyz[crlf]Upgrade: websockt[crlf][crlf]", 
         "status": "ACTIVE", 
         "secondary_dns_server": "8.8.4.4", 
         "sni": "", 
