@@ -37,7 +37,7 @@
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "azure.wsshbr.xyz",
-      "CheckUser": "http://191.233.247.15:8989/checkUser",
+      "CheckUser": "http://191.233.247.15:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
