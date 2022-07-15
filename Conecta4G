@@ -4,13 +4,13 @@
   "UrlUpdate": "",
   "Sms": "sms aqui",
   "EmailFeedback": "seu email aqui",
-  "UrlContato": "seu contato aqui",
+  "UrlContato": "https://t.me/welingtonn",
   "UrlTermos": "seu termo aqui",
   "CheckUser": "true",
   "Udp": [{"Porta": "7300"}],
   "Servers": [
     {
-      "Name": "BR | 0001",
+      "Name": "BR |ON| 01",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "aws.wsshbr.xyz",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
     {
-      "Name": "BR | 0002",
+      "Name": "BR |ON| 02",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "azure.wsshbr.xyz",
