@@ -2,8 +2,8 @@
   "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "",
-  "Sms": "BOTAR LINK DO SMS AQUI",
-  "EmailFeedback": "a@gmail.com",
+  "Sms": "",
+  "EmailFeedback": "1111111@gmail.com",
   "UrlContato": "https://t.me/welingtonn",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
@@ -22,18 +22,8 @@
     }
   ],
   "Networks": [
-      {
-      "Name": "💙VIVO VÍDEO ",
-      "FLAG": "vivo",
-      "Payload": "GET wss://digital.ppa.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "digital.ppa.com.br",
-      "TlsIP": "104.21.11.51",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
  {
-"Name": "💙VIVO VÍDEO 2",
+"Name": "🟣VIVO CLOUD 1",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
@@ -43,7 +33,7 @@
       "Info": "Proxy"
 },
 {
-  "Name": "VIVO NOVA 💜",
+  "Name": "🟣VIVO CLOUD 2",
    "FLAG": "vivo",
    "Payload": "GET / HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket [crlf][crlf]",
    "SNI": "",
@@ -52,8 +42,18 @@
    "ProxyPort": "80",
    "Info": "Proxy"
      },
+    {
+  "Name": "🟣VIVO CLOUD 3",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: Websocket [crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "104.18.6.80",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+     },
    {
-       "Name": "💜VIVO NEW 1",
+       "Name": "🟣VIVO NEW 1",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -63,7 +63,7 @@
       "Info": "Tlsws"
       },
       {
-   "Name": "💜VIVO NEW 2",
+   "Name": "🟣VIVO NEW 2",
    "FLAG": "vivo",
       "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
@@ -73,7 +73,7 @@
       "Info": "Tlsws"
     },
   {
-   "Name": "💜VIVO NEW 3",
+   "Name": "🟣VIVO NEW 3",
    "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -83,7 +83,7 @@
       "Info": "Tlsws"
     },
    {
-     "Name": "💜VIVO NEW 4",
+     "Name": "🟣VIVO NEW 4",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -93,7 +93,7 @@
       "Info": "Tlsws"
     },
   {
-   "Name": "💜VIVO NEW 5",
+   "Name": "🟣VIVO NEW 5",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
@@ -103,7 +103,7 @@
       "Info": "Tlsws"
   },
   {
-   "Name": "I💜VIVO NEW 6",
+   "Name": "🟣VIVO NEW 6",
    "FLAG": "vivo",
    "Payload": "GET wss://cdnjs.cloudflare.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
    "SNI": "cdnjs.cloudflare.com",
@@ -112,8 +112,18 @@
    "ProxyPort": "443",
    "Info": "Tlsws"
     },
+   {
+      "Name": "🟣VIVO NEW 7",
+      "FLAG": "vivo",
+      "Payload": "GET wss://digital.ppa.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "digital.ppa.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
     {
-      "Name": "❤️CLARO 💯% [SSL 1]",
+      "Name": "🔴CLARO 💯% [SSL 1]",
       "FLAG": "claro",
       "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "No.descomplica.com.br",
@@ -123,7 +133,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "❤️CLARO 💯% [SSL 2]",
+      "Name": "🔴CLARO 💯% [SSL 2]",
       "FLAG": "claro.png",
       "Payload": "GET wss://community.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "community.kaltura.com",
@@ -133,7 +143,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "❤️CLARO 💯% [SSL 3]",
+      "Name": "🔴CLARO 💯% [SSL 3]",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "ct.livestream.com",
