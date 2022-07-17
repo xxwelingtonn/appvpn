@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "orac.wsshbr.xyz",
-      "CheckUser": "http://2/checkUser",
+      "CheckUser": "http://144.22.249.197:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
