@@ -1,14 +1,14 @@
 {
-  "Version": "1.0.2",
-  "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "",
-  "Sms": "",
-  "EmailFeedback": "1111111@gmail.com",
+  "Version": "2.0",
+  "ReleaseNotes": "VIVO TIM CLARO",
+  "UrlUpdate": "https://raw.githubusercontent.com/xxwelingtonn/appvpn/main/4GmaisUP",
+  "Sms": "sms aqui",
+  "EmailFeedback": "seu email aqui",
   "UrlContato": "https://t.me/welingtonn",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlTermos": "seu termo aqui",
   "CheckUser": "true",
   "FormatCheck": "ddmmyyyy",
-  "UdpPort": "7300",
+  "UdpPort":"7300",
   "Servers": [
    {
       "Name": "Servidor BR",
