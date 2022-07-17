@@ -7,6 +7,7 @@
   "UrlContato": "https://t.me/welingtonn",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
+  "FormatCheck": "ddmmyyyy",
   "UdpPort": "7300",
   "Servers": [
    {
@@ -14,7 +15,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "orac.wsshbr.xyz",
-      "CheckUser": "http://144.22.249.197:5454/checkUser",
+      "CheckUser": "http://144.22.249.197:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
