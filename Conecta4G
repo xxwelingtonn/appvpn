@@ -1,5 +1,5 @@
 {
-  "Version": "2.0",
+  "Version": "1.0.2",
   "ReleaseNotes": "VIVO TIM CLARO",
   "UrlUpdate": "https://raw.githubusercontent.com/xxwelingtonn/appvpn/main/4GmaisUP",
   "Sms": "sms aqui",
@@ -7,8 +7,7 @@
   "UrlContato": "https://t.me/welingtonn",
   "UrlTermos": "seu termo aqui",
   "CheckUser": "true",
-  "FormatCheck": "ddmmyyyy",
-  "UdpPort":"7300",
+  "UdpPort": "7300",
   "Servers": [
    {
       "Name": "Servidor BR",
