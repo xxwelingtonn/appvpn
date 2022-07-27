@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "2",
   "ReleaseNotes": "VIVO TIM CLARO",
   "UrlUpdate": "",
   "Sms": "sms aqui",
@@ -38,7 +38,7 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "[app_host]",
+      "TlsIP": "",
       "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
       "Info": "Proxy"
