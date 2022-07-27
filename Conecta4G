@@ -10,18 +10,18 @@
   "UdpPort": "7300",
   "Servers": [
    {
-      "Name": "Servidor BR",
+      "Name": "Servidor BR 1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "orac.wsshx.xyz",
-      "CheckUser": "http://18:8989/checkUser",
+      "CheckUser": "http://144.22.249.197:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
     {
-      "Name": "Servidor BR",
+      "Name": "Servidor BR 2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "aws.wsshx.xyz",
