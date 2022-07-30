@@ -63,7 +63,17 @@
    "ProxyPort": "80",
    "Info": "Proxy"
      },
-   {
+     {
+  "Name": "🟣VIVO Azion 4",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: yt5cwku0yp.map.azionedge.net[crlf]Upgrade: Websocket [crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "yt5cwku0yp.map.azionedge.net",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+     },
+     {
        "Name": "🟣VIVO NEW 1",
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
