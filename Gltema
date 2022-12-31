@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#ffffff\">GL TUNNEL 4G</font>", 
+      "value": "<font color=\"#D2691E\">WSSH VPN</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.imgur.com/RiksQAG.jpeg", 
+      "value": "https://i.ibb.co/rwnBCVz/meteorr.png", 
       "name": "app_background_image"
     },
     {
@@ -33,19 +33,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#3355D1", 
+      "value": "#D2691E", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#D2691E", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#D2691E", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -63,14 +63,14 @@
     }, 
     {
       "user_id": 27, 
-      "value": "", 
+      "value": "https://t.me//welingtonn", 
       "id": 2224, 
       "name": "app_contact_link"
     },
 
     {
       "user_id": 27, 
-      "value": "#333333", 
+      "value": "#D2691E", 
       "id": 2382, 
       "name": "border_color"
     }, 
@@ -88,13 +88,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "", 
+      "value": "https://t.me/welingtonn", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.imgur.com/h3UjRjh.png", 
+      "value": "https://i.ibb.co/jZ3qd19/wssh11.png", 
       "id": 2386, 
       "name": "app_logo"
     },
@@ -136,13 +136,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ed1c24", 
+      "value": "#ffffff", 
       "id": 5140, 
       "name": "app_dialog_error_text_color"
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO GL TUNNEL MOD!!", 
+      "value": "SEJAM BEM VINDO(A)S AO WSSH VPN!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
@@ -154,7 +154,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/FsJD5bz/20220628-194452.png", 
+      "value": "27_app_dialog_image_success_BF629882C4376A8477E9.png", 
       "id": 5143, 
       "name": "app_dialog_image_success"
     }, 
@@ -166,7 +166,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/FsJD5bz/20220628-194452.png", 
+      "value": "27_app_dialog_image_validate_AE1AA0FA0F34767B4CD5.png", 
       "id": 5145, 
       "name": "app_dialog_image_validate"
     }, 
