@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#9932CC\">WSSH BR</font>", 
+      "value": "<font color=\"#D2691E\">WSSH VPN</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/wpd5mBX/wssh-planet.jpg", 
+      "value": "https://i.ibb.co/rwnBCVz/meteorr.png", 
       "name": "app_background_image"
     },
     {
@@ -33,19 +33,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#9932CC", 
+      "value": "#D2691E", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#9932CC", 
+      "value": "#D2691E", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#9932CC", 
+      "value": "#D2691E", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#9932CC", 
+      "value": "#D2691E", 
       "id": 2382, 
       "name": "border_color"
     }, 
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/9GhPtGB/SGN-07-01-2022-1656681873899.png", 
+      "value": "https://i.ibb.co/jZ3qd19/wssh11.png", 
       "id": 2386, 
       "name": "app_logo"
     },
@@ -136,7 +136,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ed1c24", 
+      "value": "#ffffff", 
       "id": 5140, 
       "name": "app_dialog_error_text_color"
     }, 
