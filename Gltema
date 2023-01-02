@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#9932CC\">WSSH VPN</font>", 
+      "value": "<font color=\"#9932CC\">WSSH BR</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/QrgXnLX/stories.jpg", 
+      "value": "https://i.ibb.co/wpd5mBX/wssh-planet.jpg", 
       "name": "app_background_image"
     },
     {
@@ -124,7 +124,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/wCyr7nd/ic-atlantus.png", 
+      "value": "https://i.ibb.co/R9ycgpR/icon-6-launcher-round.png", 
       "id": 5130, 
       "name": "app_qsTileIcon"
     }, 
@@ -190,7 +190,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/wCyr7nd/ic-atlantus.png", 
+      "value": "https://i.ibb.co/R9ycgpR/icon-6-launcher-round.png", 
       "id": 7732, 
       "name": "app_contct_icon"
     }
