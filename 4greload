@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "BR 6",
+            "Name": "BRASIL 6",
             "TYPE": "free",
             "FLAG": "br.png",
             "ServerIP": "br.wnnn3t.ml",
@@ -27,7 +27,7 @@
     ],
     "Networks": [
         {
-            "Name": "TIM SALDO EXPIRADO",
+            "Name": "TIM SALDO EXPIRADOOOOO",
             "FLAG": "tim",
             "Payload": "HTTP/ [crlf][crlf]Host: br.wnnn3t.ml[protocol][crlf]|[crlf]",
             "SNI": "",
